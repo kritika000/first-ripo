@@ -1,0 +1,8 @@
+1 git config --global user.name "Kritika"
+2 git config --global user.email "kritikajoshibct@kec.edu.np"
+3 git config --global --list
+4 create a new folder , right click , click show more options
+5 open git bash here
+7 right click , new , text documents
+8 git init , git status , history , ls , git commit -m
+
